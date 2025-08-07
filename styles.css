@@ -1,0 +1,48 @@
+* {
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: grey;
+    box-sizing: border-box;
+}
+
+div {
+    max-width: 1000px;
+    margin: 20px auto;
+    padding: 16px;
+    background-color: lightgreen;
+    text-align: center;
+}
+
+.home-button {
+    background-color: lightskyblue;
+    font-size: 25px;
+    margin-left: 5px;
+}
+
+h1,
+h2,
+ul,
+ol,
+li,
+p {
+    background-color: lightpink
+}
+
+h1,
+h2 {
+    color: darkblue;
+    font-weight: 800;
+}
+
+ul,
+ol,
+li {
+    list-style-position: inside;
+}
+
+img {
+    height: 500px;
+    width: 700px;
+    display: block;
+    margin: 0 auto;
+}
+
